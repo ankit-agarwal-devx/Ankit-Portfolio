@@ -85,7 +85,7 @@ const Contact = () => {
                 <div
                   key={`social_${profile.title}`}
                   onClick={() => window.open(profile.link, "_blank")}
-                  className="green-pink-gradient lg:w-10 lg:h-10 h-8 w-8 rounded-full flex justify-center items-center cursor-pointer hover:scale-110"
+                  className="blue-orange-gradient lg:w-10 lg:h-10 h-8 w-8 rounded-full flex justify-center items-center cursor-pointer hover:scale-110"
                 >
                   <img
                     src={profile.icon}

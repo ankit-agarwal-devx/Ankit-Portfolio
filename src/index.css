@@ -43,10 +43,10 @@
   );
 }
 
-.green-pink-gradient {
+.blue-orange-gradient {
   background: "#00cea8";
-  background: linear-gradient(90.13deg, #00cea8 1.9%, #bf61ff 97.5%);
-  background: -webkit-linear-gradient(-90.13deg, #00cea8 1.9%, #bf61ff 97.5%);
+  background: linear-gradient(90.13deg, #6279d7 1.9%, #f1a036 97.5%);
+  background: -webkit-linear-gradient(-90.13deg, #6279d7 1.9%, #cf984f 97.5%);
 }
 
 .orange-text-gradient {
